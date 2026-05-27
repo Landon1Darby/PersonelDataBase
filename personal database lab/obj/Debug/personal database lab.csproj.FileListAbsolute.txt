@@ -1,0 +1,14 @@
+D:\cs 162\chapter 13\personal database lab\personal database lab\bin\Debug\Personel.mdf
+D:\cs 162\chapter 13\personal database lab\personal database lab\bin\Debug\Personel_log.ldf
+D:\cs 162\chapter 13\personal database lab\personal database lab\bin\Debug\personal database lab.exe.config
+D:\cs 162\chapter 13\personal database lab\personal database lab\bin\Debug\personal database lab.exe
+D:\cs 162\chapter 13\personal database lab\personal database lab\bin\Debug\personal database lab.pdb
+D:\cs 162\chapter 13\personal database lab\personal database lab\obj\Debug\personal database lab.csproj.AssemblyReference.cache
+D:\cs 162\chapter 13\personal database lab\personal database lab\obj\Debug\personal_database_lab.Form1.resources
+D:\cs 162\chapter 13\personal database lab\personal database lab\obj\Debug\personal_database_lab.Properties.Resources.resources
+D:\cs 162\chapter 13\personal database lab\personal database lab\obj\Debug\personal database lab.csproj.GenerateResource.cache
+D:\cs 162\chapter 13\personal database lab\personal database lab\obj\Debug\personal database lab.csproj.CoreCompileInputs.cache
+D:\cs 162\chapter 13\personal database lab\personal database lab\obj\Debug\personal database lab.exe
+D:\cs 162\chapter 13\personal database lab\personal database lab\obj\Debug\personal database lab.pdb
+D:\cs 162\chapter 13\personal database lab\personal database lab\obj\Debug\personal database lab.exe.config
+D:\cs 162\chapter 13\personal database lab\personal database lab\obj\Debug\personal_database_lab.DetailsForm.resources
